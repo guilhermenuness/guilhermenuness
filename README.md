@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<p>Me chamo Guilherme Nunes, sou apaixonado por tecnologia e EMACS, atualmente sou desenvolvedor backend focado em PYTHON, mas estou estudando frontend.</p>
+<p>Me chamo Guilherme Nunes, sou apaixonado por tecnologia e series, atualmente sou desenvolvedor backend focado em PYTHON, mas estou estudando frontend.</p>
 <a href="mailto:nunesdev@outlook.pt"><img src = "https://img.shields.io/badge/-Gmail-41225e?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://t.me/gnesdev"><img src = "https://img.shields.io/badge/-Telegram-41225e?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://youtube.com/@nunesdev"><img src = "https://img.shields.io/badge/-Youtube-41225e?style=for-the-badge&logo=youtube&logoColor=white"></a>
@@ -30,7 +30,6 @@
 <img src="https://img.shields.io/badge/Linux-41255e?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/git-41255e?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-41255e?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/emacs-41255e?style=for-the-badge&logo=gnuemacs&logoColor=white">
 <img src="https://img.shields.io/badge/Android-41255e?style=for-the-badge&logo=android&logoColor=white">
 </div>
 
